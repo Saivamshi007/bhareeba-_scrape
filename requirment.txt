@@ -1,0 +1,7 @@
+certifi==2023.7.22
+charset-normalizer==3.3.2
+idna==3.4
+python-git==2018.2.1
+requests==2.31.0
+Send2Trash==1.8.2
+urllib3==2.0.7
